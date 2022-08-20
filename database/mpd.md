@@ -78,7 +78,7 @@ CREATE TABLE econews.post (
     FOREIGN KEY (category_id)
         REFERENCES category(id),
 
-    FOREIGN KEY (subCategory_id)
+    FOREIGN KEY (subcategory_id)
         REFERENCES subCategory(id),
 
     FOREIGN KEY (user_id)
