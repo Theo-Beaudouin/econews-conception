@@ -1,0 +1,14 @@
+CREATES2, 11 Category, 0N User
+:
+CREATES3, 11 SubCategory, 0N User
+User : user_id, username, email, password, firstname, lastname, status, is_confirmed, role, created_at, updated_at
+
+Category : category_id, title, description, status, created_at, updated_at
+POSSESSES, 0N Category, 11 SubCategory 
+SubCategory : sub_category_id, title, description, status, created_at, updated_at
+CREATES, 11 Post, 0N User
+
+ASSOCIATED TO, 01 Post, 0N Category
+:
+ASSOCIATED TO2, 01 Post, 0N SubCategory
+Post : post_id, title, content, status, snippet, thumbnail, created_at, updated_at
