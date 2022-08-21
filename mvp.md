@@ -1,0 +1,45 @@
+# Minimum Viable Product
+
+- **Header**
+  - At the bottom on phones
+  - Search bar logo (functionnal)
+  - Logo of the app
+  - Username (when logged)
+  - Burger menu
+    - Categories
+    - Log out
+    - Account
+- **Footer**
+  - Search bar
+    - Enter button *(on laptop and above)*
+    - Newsletters subscription
+      - Enter button *(on laptop and above)*
+    - Links to pages *(ex : Sitemap and Terms of Use)*
+- **Home page**
+  - Recent posts
+    - Post Title
+    - Thumbnail *(if added)*
+    - Snippet
+    - Author's name
+- **Post page**
+  - Post Title
+  - Snippet
+  - Writer's name
+  - Date of writing
+  - Thumbnail *(if added)*
+  - Content
+- **Log in page**
+  - Form
+    - Email or Username
+    - Password
+    - Forgotten password option
+- **Sign up page**
+  - Form
+    - Email
+    - Username
+    - First name
+    - Last name
+    - Password
+    - Confirmation of password
+- **EXTRA**
+  - Log in and Sign up must be on the same page
