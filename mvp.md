@@ -1,0 +1,99 @@
+# Minimum Viable Product
+
+## English
+
+- **Header**
+  - At the bottom on phones
+  - Search bar logo *(functionnal)*
+  - Logo of the app
+  - Username *(when logged)*
+  - Burger menu
+    - Categories
+    - Log out
+    - Account
+- **Footer**
+  - Search bar
+    - Enter button *(on laptop and above)*
+    - Newsletters subscription
+      - Enter button *(on laptop and above)*
+    - Links to pages *(ex : Sitemap and Terms of Use)*
+- **Home page**
+  - Recent posts
+    - Post Title
+    - Thumbnail *(if added)*
+    - Snippet
+    - Author's name
+- **Post page**
+  - Post Title
+  - Snippet
+  - Writer's name
+  - Date of writing
+  - Thumbnail *(if added)*
+  - Content
+- **Category page**
+  - Category title *(link)*
+    - Subcategory title *(link)*
+- **Log in page**
+  - Form
+    - Email or Username
+    - Password
+    - Forgotten password option
+- **Sign up page**
+  - Form
+    - Email
+    - Username
+    - First name
+    - Last name
+    - Password
+    - Confirmation of password
+- **EXTRA**
+  - Log in and Sign up must be on the same page
+
+## Français
+
+- **Menu de navigation**
+  - En bas de page sur mobile
+  - Logo de loupe, équivalent la barre de recherche *(fonctionnel)*
+  - Logo de l'application
+  - Utilisateur *(quand l'utilisateur est connecté)*
+  - Menu déroulant
+    - Catégories
+    - Déconnexion
+    - Compte
+- **Bas de page**
+  - Barre de recherche
+    - Bouton de confirmation *(sur résolution d'ordinateur portable et au-dessus)*
+    - Abonnement à la newsletters
+      - Bouton de confirmation *(sur résolution d'ordinateur portable et au-dessus)*
+    - Liens vers des pages *(ex : Plan du site and Termes et Conditions)*
+- **Page d'accueil**
+  - Articles récents
+    - Titre de l'article
+    - Miniature *(si ajoutée)*
+    - Aperçu de l'article
+    - Nom de l'auteur
+- **Page d'un article**
+  - Titre de l'article
+  - Aperçu de l'article
+  - Nom de l'auteur
+  - Date d'écriture de l'article
+  - Miniature *(si ajoutée)*
+  - Contenu de l'article
+- **Page des Catégories**
+  - Titres des catégories *(liens)*
+    - Titres des sous-catégories *(liens)*
+- **Page de connexion**
+  - Formulaire
+    - Email or Pseudo
+    - Mot de passe
+    - Option de mot de passe oublié
+- **Page d'inscription**
+  - Formulaire
+    - Email
+    - Pseudo
+    - Prénom
+    - Nom de famille
+    - Mot de passe
+    - Confirmation de mot de passe
+- **EXTRA**
+  - Connexion et inscription sur la même page
