@@ -16,7 +16,7 @@
 - VueX
 - Axios
 
-## Tools
+## Tools / Outils
 
 - Visual Studio Code
 - Insomnia
