@@ -26,7 +26,7 @@ Technologies, études, conseils, guides, critiques, rapports scientifiques et to
 ### Objectif
 
 Aborder ce sujet est devenu extrêmement important dans notre société d'aujourd'hui.
-Le changement climatique est dors et déjà en train d'affecter nos vies, et continuera de le faire sur une plus grande échelle que sur celle qu'il ne l'ai déjà.
+Le changement climatique est dors et déjà en train d'affecter nos vies, et continuera à le faire sur une échelle plus grande qu'il ne l'est déjà.
 Il est important que collectivement, nous faisons en sorte que les ressources deviennent plus accessibles et faciles à comprendre, afin de permettre la prise de meilleures décisions pour notre futur et celui des générations prochaines.
 
 ### Audience visée
