@@ -5,7 +5,6 @@
 | visitor  | create an account                      | --                                      | --                        |
 | visitor  | log in into my account                 | --                                      | --                        |
 | visitor  | read the posts                         | --                                      | --                        |
-| visitor  | subscribe to the newsletters           | --                                      | --                        |
 | member   | ask the role of writer                 | be able to write posts                  | --                        |
 | member   | follow a writer                        | get update on new posts they may create | --                        |
 | member   | edit my account                        | --                                      | --                        |
