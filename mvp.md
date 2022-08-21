@@ -28,6 +28,9 @@
   - Date of writing
   - Thumbnail *(if added)*
   - Content
+- **Category page**
+  - Category title *(link)*
+    - Subcategory title *(link)*
 - **Log in page**
   - Form
     - Email or Username

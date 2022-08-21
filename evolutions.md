@@ -1,5 +1,6 @@
 # Evolutions
 
+- Subcategory page
 - Finish functionnality to change password if the user lost it
 - Finish functionnality to verify account
   - Termination of account if not validated under an hour
